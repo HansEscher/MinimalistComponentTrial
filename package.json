@@ -16,6 +16,9 @@
   ],
   "author": "Hans Escher",
   "license": "MIT",
+  "publishConfig": {
+    "@jp_escher:registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/HansEscher/MinimalistComponentTrial/issues"
   },
