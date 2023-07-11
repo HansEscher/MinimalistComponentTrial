@@ -1,0 +1,23 @@
+{
+  "name": "@hansescher/minimalistcomponenttrial",
+  "version": "1.0.0",
+  "description": "minimalist component trial angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansEscher/MinimalistComponentTrial.git"
+  },
+  "keywords": [
+    "noob",
+    "tryout"
+  ],
+  "author": "Hans Escher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HansEscher/MinimalistComponentTrial/issues"
+  },
+  "homepage": "https://github.com/HansEscher/MinimalistComponentTrial#readme"
+}
