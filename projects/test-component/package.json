@@ -1,16 +1,26 @@
 {
   "name": "@owner/test-component",
   "version": "1.0.3",
+  "ngPackage": {
+    "lib": {
+      "entryFile": "public_api.ts"
+    },
+    "dest": "dist"
+  },
   "peerDependencies": {
     "@angular/common": "^16.1.0",
-    "@angular/core": "^16.1.0"
+    "@angular/core": "^16.1.0",
+    "tslib": "^2.3.0",
+    "typescript": "^4.9.5"
   },
   "dependencies": {
-    "tslib": "^2.3.0"
   },
   "repository": {
     "type": "git",
     "url": "git//github/HansEscher/REPOSITORY.git"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "devDependencies": {
+    "ng-packagr": "^16.1.0"
+  }
 }

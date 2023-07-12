@@ -4,7 +4,8 @@
   "description": "minimalist component trial angular",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "build-lib": "ng-packagr -p projects/test-component/ng-package.json"
   },
   "private": false,
   "repository": {
@@ -35,7 +36,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "ng-packagr": "^16.0.0",
+    "ng-packagr": "^16.1.0",
     "typescript": "^4.9.5"
   },
   "keywords": [
