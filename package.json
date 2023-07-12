@@ -1,6 +1,6 @@
 {
   "name": "@hansescher/minimalistcomponenttrial",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "minimalist component trial angular",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/HansEscher/MinimalistComponentTrial.git"
   },
   "files": [
-    "./dist/test-component/**/*",
+    "./dist/**/*",
     "./projects/test-component/src/**/*"
   ],
   "dependencies": {

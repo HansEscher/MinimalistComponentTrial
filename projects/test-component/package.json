@@ -1,6 +1,6 @@
 {
   "name": "@owner/test-component",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "ngPackage": {
     "lib": {
       "entryFile": "public_api.ts"
